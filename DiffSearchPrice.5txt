@@ -1,0 +1,1418 @@
+--BCN/PAR : dateA: 2016-06-22 /dateR: 2016-07-01----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    125.70
+amount price:    66.80
+Difference prix :  -58.900000000000006
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    AMADEUS
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/LIS : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    99.70
+amount price:    76.80
+Difference prix :  -22.900000000000006
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    175.80
+amount price:    128.80
+Difference prix :  -47.0
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    111.70
+amount price:    66.80
+Difference prix :  -44.900000000000006
+**********************************************
+--PAR/VCE : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    69.80
+amount price:    63.80
+Difference prix :  -6.0
+**********************************************
+--PAR/TUN : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    133.80
+amount price:    148.80
+Difference prix :  15.0
+**********************************************
+--PAR/SVQ : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    129.80
+amount price:    81.80
+Difference prix :  -48.000000000000014
+**********************************************
+--BCN/AMS : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/PAR : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    92.70
+amount price:    66.80
+Difference prix :  -25.900000000000006
+**********************************************
+--NCE/AMS : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--MAD/PAR : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    78.70
+amount price:    78.79
+Difference prix :  0.09000000000000341
+**********************************************
+--VLC/AMS : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-06-30----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    71.80
+amount price:    86.80
+Difference prix :  15.0
+**********************************************
+--PAR/LIS : dateA: 2016-06-22 /dateR: 2016-06-30----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    97.80
+amount price:    76.80
+Difference prix :  -21.0
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-06-30----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    120.80
+amount price:    134.80
+Difference prix :  14.000000000000014
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-06-30----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    72.70
+amount price:    66.80
+Difference prix :  -5.900000000000006
+**********************************************
+--PAR/VCE : dateA: 2016-06-22 /dateR: 2016-07-01----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    63.80
+amount price:    63.80
+Difference prix :  0.0
+**********************************************
+--PAR/TUN : dateA: 2016-06-22 /dateR: 2016-07-01----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    133.80
+amount price:    148.80
+Difference prix :  15.0
+**********************************************
+--PAR/SVQ : dateA: 2016-06-22 /dateR: 2016-07-01----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    83.80
+amount price:    81.80
+Difference prix :  -2.0
+**********************************************
+--NTE/VCE : dateA: 2016-06-22 /dateR: 2016-07-01----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/AMS : dateA: 2016-06-22 /dateR: 2016-07-01----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/PAR : dateA: 2016-06-22 /dateR: 2016-07-01----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    125.70
+amount price:    66.80
+Difference prix :  -58.900000000000006
+**********************************************
+--LYS/RAK : dateA: 2016-06-22 /dateR: 2016-07-01----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--NCE/AMS : dateA: 2016-06-22 /dateR: 2016-07-01----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--MAD/PAR : dateA: 2016-06-22 /dateR: 2016-07-01----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    130.70
+amount price:    78.79
+Difference prix :  -51.90999999999998
+**********************************************
+--VLC/AMS : dateA: 2016-06-22 /dateR: 2016-07-01----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/LIS : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    107.80
+amount price:    76.80
+Difference prix :  -31.0
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    206.80
+amount price:    128.80
+Difference prix :  -78.0
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    122.70
+amount price:    66.80
+Difference prix :  -55.900000000000006
+**********************************************
+--PAR/VCE : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    63.80
+amount price:    63.80
+Difference prix :  0.0
+**********************************************
+--PAR/TUN : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    159.80
+amount price:    148.80
+Difference prix :  -11.0
+**********************************************
+--PAR/SVQ : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    83.80
+amount price:    81.80
+Difference prix :  -2.0
+**********************************************
+--NTE/VCE : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/AMS : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/PAR : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    115.70
+amount price:    66.80
+Difference prix :  -48.900000000000006
+**********************************************
+--LYS/RAK : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--NCE/AMS : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--MAD/PAR : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    130.70
+amount price:    78.79
+Difference prix :  -51.90999999999998
+**********************************************
+--VLC/AMS : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    81.80
+amount price:    86.80
+Difference prix :  5.0
+**********************************************
+--PAR/LIS : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    97.80
+amount price:    76.80
+Difference prix :  -21.0
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    120.80
+amount price:    128.80
+Difference prix :  8.000000000000014
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    65.70
+amount price:    66.80
+Difference prix :  1.0999999999999943
+**********************************************
+--PAR/VCE : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    58.80
+amount price:    63.80
+Difference prix :  5.0
+**********************************************
+--PAR/TUN : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    133.80
+amount price:    148.80
+Difference prix :  15.0
+**********************************************
+--PAR/SVQ : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    83.80
+amount price:    81.80
+Difference prix :  -2.0
+**********************************************
+--NTE/VCE : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/AMS : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/PAR : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    125.70
+amount price:    66.80
+Difference prix :  -58.900000000000006
+**********************************************
+--LYS/RAK : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--NCE/AMS : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--MAD/PAR : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    97.70
+amount price:    78.79
+Difference prix :  -18.909999999999997
+**********************************************
+--VLC/AMS : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/LIS : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    117.80
+amount price:    76.80
+Difference prix :  -41.0
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    155.80
+amount price:    128.80
+Difference prix :  -27.0
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    122.70
+amount price:    66.80
+Difference prix :  -55.900000000000006
+**********************************************
+--PAR/VCE : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    69.80
+amount price:    63.80
+Difference prix :  -6.0
+**********************************************
+--PAR/TUN : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    159.80
+amount price:    148.80
+Difference prix :  -11.0
+**********************************************
+--PAR/SVQ : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    83.80
+amount price:    81.80
+Difference prix :  -2.0
+**********************************************
+--NTE/VCE : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/AMS : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/PAR : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    92.70
+amount price:    66.80
+Difference prix :  -25.900000000000006
+**********************************************
+--LYS/RAK : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--NCE/AMS : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--MAD/PAR : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    109.70
+amount price:    78.79
+Difference prix :  -30.909999999999997
+**********************************************
+--VLC/AMS : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/LIS : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/VCE : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/TUN : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/SVQ : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--NTE/VCE : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/AMS : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/PAR : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--LYS/RAK : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--NCE/AMS : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--MAD/PAR : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--VLC/AMS : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/LIS : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/VCE : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/TUN : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/SVQ : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--NTE/VCE : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/AMS : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/PAR : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--LYS/RAK : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--NCE/AMS : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--MAD/PAR : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--VLC/AMS : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    71.80
+amount price:    86.80
+Difference prix :  15.0
+**********************************************
+--PAR/LIS : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    92.80
+amount price:    76.80
+Difference prix :  -16.0
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    120.80
+amount price:    128.80
+Difference prix :  8.000000000000014
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    72.70
+amount price:    66.80
+Difference prix :  -5.900000000000006
+**********************************************
+--PAR/VCE : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    58.80
+amount price:    63.80
+Difference prix :  5.0
+**********************************************
+--PAR/TUN : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    133.80
+amount price:    148.80
+Difference prix :  15.0
+**********************************************
+--PAR/SVQ : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    77.80
+amount price:    81.80
+Difference prix :  4.0
+**********************************************
+--NTE/VCE : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/AMS : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/PAR : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    76.70
+amount price:    66.80
+Difference prix :  -9.900000000000006
+**********************************************
+--LYS/RAK : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--NCE/AMS : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--MAD/PAR : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    87.70
+amount price:    78.79
+Difference prix :  -8.909999999999997
+**********************************************
+--VLC/AMS : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/LIS : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    97.80
+amount price:    76.80
+Difference prix :  -21.0
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    139.80
+amount price:    128.80
+Difference prix :  -11.0
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    89.70
+amount price:    66.80
+Difference prix :  -22.900000000000006
+**********************************************
+--PAR/VCE : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    63.80
+amount price:    63.80
+Difference prix :  0.0
+**********************************************
+--PAR/TUN : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    153.80
+amount price:    148.80
+Difference prix :  -5.0
+**********************************************
+--PAR/SVQ : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    83.80
+amount price:    81.80
+Difference prix :  -2.0
+**********************************************
+--NTE/VCE : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/AMS : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/PAR : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    104.70
+amount price:    66.80
+Difference prix :  -37.900000000000006
+**********************************************
+--LYS/RAK : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--NCE/AMS : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--MAD/PAR : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    97.70
+amount price:    78.79
+Difference prix :  -18.909999999999997
+**********************************************
+--VLC/AMS : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/MUC : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    81.80
+amount price:    87.80
+Difference prix :  6.0
+**********************************************
+--PAR/MUC : dateA: 2016-06-22 /dateR: 2016-06-30----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    83.80
+amount price:    87.80
+Difference prix :  4.0
+**********************************************
+--PAR/MUC : dateA: 2016-06-22 /dateR: 2016-07-01----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    85.80
+amount price:    87.80
+Difference prix :  2.0
+**********************************************
+--PAR/MUC : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    83.80
+amount price:    87.80
+Difference prix :  4.0
+**********************************************
+--PAR/MUC : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    83.80
+amount price:    87.80
+Difference prix :  4.0
+**********************************************
+--PAR/MUC : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    83.80
+amount price:    87.80
+Difference prix :  4.0
+**********************************************
+--PAR/MUC : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/MUC : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/MUC : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    81.80
+amount price:    87.80
+Difference prix :  6.0
+**********************************************
+--PAR/MUC : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    83.80
+amount price:    87.80
+Difference prix :  4.0
+**********************************************
+--AMS/NCE : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--AMS/NCE : dateA: 2016-06-22 /dateR: 2016-06-30----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--AMS/NCE : dateA: 2016-06-22 /dateR: 2016-07-01----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--AMS/NCE : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--AMS/NCE : dateA: 2016-06-22 /dateR: 2016-07-13----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--AMS/NCE : dateA: 2016-06-22 /dateR: 2016-07-25----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--AMS/NCE : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--AMS/NCE : dateA: 2016-06-22 /dateR: 2016-06-31----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--AMS/NCE : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--AMS/NCE : dateA: 2016-06-22 /dateR: 2016-07-19----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-06-06----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-14----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    71.80
+amount price:    86.80
+Difference prix :  15.0
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-21----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-23----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-12----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    81.80
+amount price:    86.80
+Difference prix :  5.0
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-20----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-09----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    81.80
+amount price:    86.80
+Difference prix :  5.0
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    71.80
+amount price:    86.80
+Difference prix :  15.0
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-06-06----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-14----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    120.80
+amount price:    128.80
+Difference prix :  8.000000000000014
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-21----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    145.80
+amount price:    128.80
+Difference prix :  -17.0
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-23----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    165.80
+amount price:    128.80
+Difference prix :  -37.0
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-28----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    206.80
+amount price:    128.80
+Difference prix :  -78.0
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-12----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    120.80
+amount price:    128.80
+Difference prix :  8.000000000000014
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-20----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    139.80
+amount price:    128.80
+Difference prix :  -11.0
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-09----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    120.80
+amount price:    128.80
+Difference prix :  8.000000000000014
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    120.80
+amount price:    128.80
+Difference prix :  8.000000000000014
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-06-27----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    111.70
+amount price:    66.80
+Difference prix :  -44.900000000000006
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-06-30----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    72.70
+amount price:    66.80
+Difference prix :  -5.900000000000006
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-07-02----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    89.70
+amount price:    66.80
+Difference prix :  -22.900000000000006
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-07-05----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    72.70
+amount price:    66.80
+Difference prix :  -5.900000000000006
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-07-08----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    72.70
+amount price:    66.80
+Difference prix :  -5.900000000000006
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-07-11----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    72.70
+amount price:    66.80
+Difference prix :  -5.900000000000006
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-07-14----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    76.70
+amount price:    66.80
+Difference prix :  -9.900000000000006
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-07-15----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    76.70
+amount price:    66.80
+Difference prix :  -9.900000000000006
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-07-18----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    132.70
+amount price:    66.80
+Difference prix :  -65.89999999999999
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-15----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    81.80
+amount price:    86.80
+Difference prix :  5.0
+**********************************************
+--PAR/LIS : dateA: 2016-06-22 /dateR: 2016-07-15----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    97.80
+amount price:    76.80
+Difference prix :  -21.0
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-15----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    120.80
+amount price:    128.80
+Difference prix :  8.000000000000014
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-07-15----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    76.70
+amount price:    66.80
+Difference prix :  -9.900000000000006
+**********************************************
+--PAR/VCE : dateA: 2016-06-22 /dateR: 2016-07-15----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    63.80
+amount price:    63.80
+Difference prix :  0.0
+**********************************************
+--PAR/TUN : dateA: 2016-06-22 /dateR: 2016-07-15----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    133.80
+amount price:    148.80
+Difference prix :  15.0
+**********************************************
+--PAR/SVQ : dateA: 2016-06-22 /dateR: 2016-07-15----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    83.80
+amount price:    81.80
+Difference prix :  -2.0
+**********************************************
+--BCN/AMS : dateA: 2016-06-22 /dateR: 2016-07-15----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/PAR : dateA: 2016-06-22 /dateR: 2016-07-15----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    104.70
+amount price:    66.80
+Difference prix :  -37.900000000000006
+**********************************************
+--NCE/AMS : dateA: 2016-06-22 /dateR: 2016-07-15----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--MAD/PAR : dateA: 2016-06-22 /dateR: 2016-07-15----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    109.70
+amount price:    78.79
+Difference prix :  -30.909999999999997
+**********************************************
+--VLC/AMS : dateA: 2016-06-22 /dateR: 2016-07-15----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-07-30----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/LIS : dateA: 2016-06-22 /dateR: 2016-07-30----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-07-30----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    226.80
+amount price:    128.80
+Difference prix :  -98.0
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-07-30----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/VCE : dateA: 2016-06-22 /dateR: 2016-07-30----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/TUN : dateA: 2016-06-22 /dateR: 2016-07-30----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    184.80
+amount price:    148.80
+Difference prix :  -36.0
+**********************************************
+--PAR/SVQ : dateA: 2016-06-22 /dateR: 2016-07-30----------------
+Provider Search :    AMADEUS
+Provider Price :    AMADEUS
+amount search:    199.80
+amount price:    81.80
+Difference prix :  -118.00000000000001
+**********************************************
+--BCN/AMS : dateA: 2016-06-22 /dateR: 2016-07-30----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--BCN/PAR : dateA: 2016-06-22 /dateR: 2016-07-30----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--NCE/AMS : dateA: 2016-06-22 /dateR: 2016-07-30----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--MAD/PAR : dateA: 2016-06-22 /dateR: 2016-07-30----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--VLC/AMS : dateA: 2016-06-22 /dateR: 2016-07-30----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/PRG : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/LIS : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/RAK : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/BCN : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/VCE : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+--PAR/TUN : dateA: 2016-06-22 /dateR: 2016-06-16----------------
+Provider Search :    
+Provider Price :    
+amount search:    0
+amount price:    0
+Difference prix :  PAS DE REMONTEE de PRIX SUITE A ECHEC REQUETE.
+**********************************************
+Nombre de cas de test en succes :    0
+Nombre de cas de test en succes en echec :    ?
+Nombre de cas de test en succes :    0
+Nombre de cas de test en succes en echec :    ?
